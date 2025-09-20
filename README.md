@@ -51,7 +51,7 @@
 
 <img width="1919" height="894" alt="Arsip-pop up berhasil diperbarui" src="https://github.com/user-attachments/assets/a0ebf7c5-979b-42d6-8346-3c95d8e773c4" />
 
-<img width="1919" height="894" alt="Arsip-pop up berhasil diperbarui" src="https://github.com/user-attachments/assets/4f7a2d51-d64b-4275-bb0b-193d73b589a1" />
+<img width="1919" height="893" alt="Arsip-Hapus" src="https://github.com/user-attachments/assets/2cc827d7-72aa-4b23-b0f5-4b5b5263dfa2" />
 
 <img width="1919" height="899" alt="Kategori-Index" src="https://github.com/user-attachments/assets/259d48e3-ddc4-44bc-b131-f8c75a2e8f74" />
 
